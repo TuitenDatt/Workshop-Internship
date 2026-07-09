@@ -8,25 +8,25 @@ chapter: false
     
 # Internship Report
 ### Student Information:
-&emsp; **Full Name:** Phan Thanh Phong
+&emsp; **Full Name:** Lâm Quốc Đạt
 
-&emsp; **Phone Number:** 0776762368 
+&emsp; **Phone Number:** 0948 105 441
 
-&emsp; **Email:** [phanphong0608@gmail.com]
+&emsp; **Email:** [detugioi2011@gmail.com]
 
-&emsp; **University:** Ho Chi Minh City University of Technology 
+&emsp; **University:** Ho Chi Minh City University of Technology (Hutech)
 
 &emsp; **Major:** Information Technology
 
 &emsp; **Class:** 22DTHB5
 
-&emsp; **Internship Company:** 	Amazon Web Services Viet Nam Co., Ltd
+&emsp; **Internship Company:** Amazon Web Services Viet Nam Co., Ltd
 
 &emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 
 &emsp; **Internship Duration:** From 17/04/2025 to 12/07/2025
 
-![Your profile picture](images/hinhdaidien.jpg)
+![Your profile picture](images/avatar.jpg)
 
 ### Report Content
 
