@@ -197,4 +197,4 @@ Through the event, attendees gained more knowledge about system architecture, Cl
 
 ## Event Photos
 
-![AWS FCAJ Community Day](/static/images/4-EventParticipated/4.1-Event1/z8026091870298_0974b51fcfb33f5328744cddf91659aa.jpg)
+![AWS FCAJ Community Day](images/4-EventParticipated/4.1-Event1/z8026091870298_0974b51fcfb33f5328744cddf91659aa.jpg)

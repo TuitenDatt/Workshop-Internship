@@ -166,7 +166,7 @@ This topic is particularly valuable for professionals learning AWS Security, Dev
 
 The following architecture illustrates the multi-layered security approach recommended by AWS to help prevent and detect **Data Exfiltration**. It combines services such as AWS Network Firewall, Amazon Route 53 Resolver DNS Firewall, Data Perimeter controls, Amazon GuardDuty, AWS Security Hub, and Amazon CloudWatch to strengthen outbound traffic (Egress Traffic) protection and improve overall security visibility.
 
-![AWS Reference Architecture for Preventing Data Exfiltration](/static/images/3-Blog/aws-reference-architecture-for-preventing-data-exfiltration.jpg)
+![AWS Reference Architecture for Preventing Data Exfiltration](images/3-Blog/aws-reference-architecture-for-preventing-data-exfiltration.jpg)
 
 *Picture 2. AWS Reference Architecture for Preventing Data Exfiltration.*
 

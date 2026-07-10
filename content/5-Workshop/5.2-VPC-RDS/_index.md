@@ -13,22 +13,22 @@ In this section, we will configure the basic networking architecture on AWS by c
 <div align="center">
 
 <figure>
-  <img src="/static/images/5-Workshop/5.2-VPC-RDS/image1.png" alt="Create VPC" style="max-width:100%;height:auto;" />
+  <img src="/images/5-Workshop/5.2-VPC-RDS/image1.png" alt="Create VPC" style="max-width:100%;height:auto;" />
   <figcaption><em>Create the custom VPC</em></figcaption>
 </figure>
 
 <figure>
-  <img src="/static/images/5-Workshop/5.2-VPC-RDS/image5.png" alt="Application Load Balancer security group" style="max-width:100%;height:auto;" />
+  <img src="/images/5-Workshop/5.2-VPC-RDS/image5.png" alt="Application Load Balancer security group" style="max-width:100%;height:auto;" />
   <figcaption><em>Security group for the application load balancer</em></figcaption>
 </figure>
 
 <figure>
-  <img src="/static/images/5-Workshop/5.2-VPC-RDS/image9.png" alt="RDS database configuration" style="max-width:100%;height:auto;" />
+  <img src="/images/5-Workshop/5.2-VPC-RDS/image9.png" alt="RDS database configuration" style="max-width:100%;height:auto;" />
   <figcaption><em>RDS database creation settings</em></figcaption>
 </figure>
 
 <figure>
-  <img src="/static/images/5-Workshop/5.2-VPC-RDS/image15_new.png" alt="Connectivity settings" style="max-width:100%;height:auto;" />
+  <img src="/images/5-Workshop/5.2-VPC-RDS/image15_new.png" alt="Connectivity settings" style="max-width:100%;height:auto;" />
   <figcaption><em>Connectivity and security settings</em></figcaption>
 </figure>
 
@@ -181,12 +181,12 @@ ssh -i "C:\Users\Admin\OneDrive\Documents\caulongvui-key.pem" -N -L 14333:caulon
 <div align="center">
 
 <figure>
-  <img src="/static/images/5-Workshop/5.2-VPC-RDS/image20.png" alt="Open SSH tunnel" style="max-width:100%;height:auto;" />
+  <img src="/images/5-Workshop/5.2-VPC-RDS/image20.png" alt="Open SSH tunnel" style="max-width:100%;height:auto;" />
   <figcaption><em>Open the SSH tunnel from Command Prompt</em></figcaption>
 </figure>
 
 <figure>
-  <img src="/static/images/5-Workshop/5.2-VPC-RDS/image21.png" alt="Connect in SSMS" style="max-width:100%;height:auto;" />
+  <img src="/images/5-Workshop/5.2-VPC-RDS/image21.png" alt="Connect in SSMS" style="max-width:100%;height:auto;" />
   <figcaption><em>Connect to the local tunnel endpoint in SSMS</em></figcaption>
 </figure>
 

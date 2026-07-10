@@ -24,7 +24,7 @@ The system is architected to align with cloud design best practices for performa
 
 #### Architecture Snapshots
 
-![CauLongVui AWS architecture](/static/images/2-Proposal/caulongvui-architecture.jpg)
+![CauLongVui AWS architecture](images/2-Proposal/caulongvui-architecture.jpg)
 
 #### Content
 

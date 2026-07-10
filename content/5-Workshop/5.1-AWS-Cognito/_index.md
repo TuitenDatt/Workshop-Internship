@@ -13,13 +13,13 @@ In this section, we will integrate **AWS Cognito** and **Google Identity Provide
 
 ### Visual Reference
 
-![Create Cognito user pool](/static/images/5-Workshop/5.1-AWS-Cognito/image1.png)
+![Create Cognito user pool](images/5-Workshop/5.1-AWS-Cognito/image1.png)
 
-![Choose application type](/static/images/5-Workshop/5.1-AWS-Cognito/image2.png)
+![Choose application type](images/5-Workshop/5.1-AWS-Cognito/image2.png)
 
-![Basic user pool settings](/static/images/5-Workshop/5.1-AWS-Cognito/image3.png)
+![Basic user pool settings](images/5-Workshop/5.1-AWS-Cognito/image3.png)
 
-![Registration settings](/static/images/5-Workshop/5.1-AWS-Cognito/image4.png)
+![Registration settings](images/5-Workshop/5.1-AWS-Cognito/image4.png)
 
 ---
 

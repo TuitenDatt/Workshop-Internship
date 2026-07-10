@@ -10,13 +10,13 @@ In this section, we will set up the automatic scaling system (**Auto Scaling**) 
 
 ### Visual Reference
 
-![Create launch template](/static/images/5-Workshop/5.4-Auto-Scaling/image1.png)
+![Create launch template](images/5-Workshop/5.4-Auto-Scaling/image1.png)
 
-![Create target group](/static/images/5-Workshop/5.4-Auto-Scaling/image6.png)
+![Create target group](images/5-Workshop/5.4-Auto-Scaling/image6.png)
 
-![Create Application Load Balancer](/static/images/5-Workshop/5.4-Auto-Scaling/image9.png)
+![Create Application Load Balancer](images/5-Workshop/5.4-Auto-Scaling/image9.png)
 
-![Create Auto Scaling Group](/static/images/5-Workshop/5.4-Auto-Scaling/image16.png)
+![Create Auto Scaling Group](images/5-Workshop/5.4-Auto-Scaling/image16.png)
 
 ---
 
