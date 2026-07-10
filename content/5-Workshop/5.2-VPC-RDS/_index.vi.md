@@ -13,22 +13,22 @@ Trong phần này, chúng ta sẽ thực hiện cấu hình mạng cơ bản tr�
 <div align="center">
 
 <figure>
-  <img src="/images/5-Workshop/5.2-VPC-RDS/image1.png" alt="Tạo VPC" style="max-width:100%;height:auto;" />
+  <img src="/static/images/5-Workshop/5.2-VPC-RDS/image1.png" alt="Tạo VPC" style="max-width:100%;height:auto;" />
   <figcaption><em>Tạo VPC riêng cho dự án</em></figcaption>
 </figure>
 
 <figure>
-  <img src="/images/5-Workshop/5.2-VPC-RDS/image5.png" alt="Security group ALB" style="max-width:100%;height:auto;" />
+  <img src="/static/images/5-Workshop/5.2-VPC-RDS/image5.png" alt="Security group ALB" style="max-width:100%;height:auto;" />
   <figcaption><em>Security group cho Application Load Balancer</em></figcaption>
 </figure>
 
 <figure>
-  <img src="/images/5-Workshop/5.2-VPC-RDS/image9.png" alt="Cấu hình RDS" style="max-width:100%;height:auto;" />
+  <img src="/static/images/5-Workshop/5.2-VPC-RDS/image9.png" alt="Cấu hình RDS" style="max-width:100%;height:auto;" />
   <figcaption><em>Các bước tạo cơ sở dữ liệu RDS</em></figcaption>
 </figure>
 
 <figure>
-  <img src="/images/5-Workshop/5.2-VPC-RDS/image15_new.png" alt="Cấu hình kết nối" style="max-width:100%;height:auto;" />
+  <img src="/static/images/5-Workshop/5.2-VPC-RDS/image15_new.png" alt="Cấu hình kết nối" style="max-width:100%;height:auto;" />
   <figcaption><em>Cấu hình kết nối và bảo mật</em></figcaption>
 </figure>
 
@@ -181,12 +181,12 @@ ssh -i "C:\Users\Admin\OneDrive\Documents\caulongvui-key.pem" -N -L 14333:caulon
 <div align="center">
 
 <figure>
-  <img src="/images/5-Workshop/5.2-VPC-RDS/image20.png" alt="Mở SSH tunnel" style="max-width:100%;height:auto;" />
+  <img src="/static/images/5-Workshop/5.2-VPC-RDS/image20.png" alt="Mở SSH tunnel" style="max-width:100%;height:auto;" />
   <figcaption><em>Mở SSH tunnel từ Command Prompt</em></figcaption>
 </figure>
 
 <figure>
-  <img src="/images/5-Workshop/5.2-VPC-RDS/image21.png" alt="Kết nối SSMS" style="max-width:100%;height:auto;" />
+  <img src="/static/images/5-Workshop/5.2-VPC-RDS/image21.png" alt="Kết nối SSMS" style="max-width:100%;height:auto;" />
   <figcaption><em>Kết nối SSMS qua endpoint local</em></figcaption>
 </figure>
 

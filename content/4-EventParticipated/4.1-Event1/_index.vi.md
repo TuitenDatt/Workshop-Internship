@@ -197,4 +197,4 @@ Thông qua sự kiện, người tham dự có thêm kiến thức về kiến t
 
 ## Hình ảnh sự kiện
 
-![AWS FCAJ Community Day](/images/4-EventParticipated/4.1-Event1/)
+![AWS FCAJ Community Day](/static/images/4-EventParticipated/4.1-Event1/z8026091870298_0974b51fcfb33f5328744cddf91659aa.jpg)

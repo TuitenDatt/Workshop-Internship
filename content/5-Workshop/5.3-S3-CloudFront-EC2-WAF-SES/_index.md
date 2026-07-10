@@ -10,13 +10,13 @@ In this section, we will deploy the entire application (including the static fro
 
 ### Visual Reference
 
-![Create S3 bucket](/images/5-Workshop/5.3-S3-CloudFront-EC2-WAF-SES/image1.png)
+![Create S3 bucket](/static/images/5-Workshop/5.3-S3-CloudFront-EC2-WAF-SES/image1.png)
 
-![Create CloudFront distribution](/images/5-Workshop/5.3-S3-CloudFront-EC2-WAF-SES/image8.png)
+![Create CloudFront distribution](/static/images/5-Workshop/5.3-S3-CloudFront-EC2-WAF-SES/image8.png)
 
-![Launch EC2 backend instance](/images/5-Workshop/5.3-S3-CloudFront-EC2-WAF-SES/image15.png)
+![Launch EC2 backend instance](/static/images/5-Workshop/5.3-S3-CloudFront-EC2-WAF-SES/image15.png)
 
-![Verify SES sender identity](/images/5-Workshop/5.3-S3-CloudFront-EC2-WAF-SES/image25.png)
+![Verify SES sender identity](/static/images/5-Workshop/5.3-S3-CloudFront-EC2-WAF-SES/image25.png)
 
 ---
 

@@ -44,7 +44,7 @@ Hệ thống sử dụng kiến trúc AWS 3 lớp:
 
 ### 3.1. Sơ đồ kiến trúc
 
-![Kiến trúc AWS CauLongVui](static/images/2-Proposal/caulongvui-architecture.jpg)
+![Kiến trúc AWS CauLongVui](/static/images/2-Proposal/caulongvui-architecture.jpg)
 
 ### 3.2. Các dịch vụ AWS chính
 

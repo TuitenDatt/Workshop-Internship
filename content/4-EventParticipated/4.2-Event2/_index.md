@@ -199,4 +199,4 @@ FCAJ Community Day provided an excellent opportunity to learn about the latest A
 
 ## Event Photos
 
-![AWS FCAJ Community Day](/images/4-EventParticipated/4.2-Event2/)
+![AWS FCAJ Community Day](/static/images/4-EventParticipated/4.2-Event2/z8026092015182_573adf9e627a7c47b2fe1cfa556162ed.jpg)
