@@ -20,7 +20,7 @@ pre: " <b> 1.3. </b> "
 | 4   | - Study Internet Gateway (IGW) for external connectivity and NAT Gateway to allow Private Subnets to access the Internet securely. | 13/05/2026   | 13/05/2026      | <https://aws.amazon.com/vpc/>|
 | 5   | - Practice designing and creating a complete Custom VPC based on a standard architecture diagram.                  | 14/05/2026   | 14/05/2026      | <https://aws.amazon.com/vpc/> |
 | 6   | - Deploy a Multi-tier Network architecture: place the Web server in a Public Subnet and the DB Server in a Private Subnet.                                                                                         | 15/05/2026   | 15/05/2026      | <https://aws.amazon.com/vpc/>|
-| 6   | - Configure detailed routing and test the security capability that protects the DB server from direct Internet access.                                                                                         | 16/05/2026   | 16/05/2026      | <https://aws.amazon.com/vpc/>|
+| 7   | - Configure detailed routing and test the security capability that protects the DB server from direct Internet access.                                                                                         | 16/05/2026   | 16/05/2026      | <https://aws.amazon.com/vpc/>|
 
 ### Week 3 Achievements:
 
