@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 9"
-date: 2026-07-06
+date: 2026-06-15
 weight: 1
 chapter: false
 pre: " <b> 1.9. </b> "
@@ -15,12 +15,12 @@ pre: " <b> 1.9. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Lập trình và hoàn thiện các tính năng cốt lõi của Web Cầu Lông Vui (Đặt sân, lịch trình, thông tin thành viên) ở local.                                                                                          | 22/06/2026   | 22/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 3   | - Thực hành Dockerize ứng dụng Web Cầu Lông Vui.            | 23/06/2026   | 23/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Khởi tạo hạ tầng mạng trên AWS (VPC, Subnets, ALB) phục vụ cho đồ án. | 24/06/2026   | 24/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Deploy database của ứng dụng lên Amazon RDS và cấu hình bảo mật. | 25/06/2026   | 25/06/2026      |<https://cloudjourney.awsstudygroup.com/> |
-| 6   | - Deploy các container ứng dụng lên AWS ECS Fargate, cấu hình qua Load Balancer để nhận traffic. | 26/06/2026   | 26/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 7   | - Tích hợp Amazon S3 để lưu trữ hình ảnh sân cầu lông, avatar người dùng. Kiểm tra toàn bộ luồng hoạt động end-to-end.                                                                                         | 27/05/2026   | 27/05/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 2   | - Lập trình và hoàn thiện các tính năng cốt lõi của Web Cầu Lông Vui (Đặt sân, lịch trình, thông tin thành viên) ở local.                                                                                          | 15/06/2026   | 15/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 3   | - Thực hành Dockerize ứng dụng Web Cầu Lông Vui.            | 16/06/2026   | 16/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 4   | - Khởi tạo hạ tầng mạng trên AWS (VPC, Subnets, ALB) phục vụ cho đồ án. | 17/06/2026   | 17/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 5   | - Deploy database của ứng dụng lên Amazon RDS và cấu hình bảo mật. | 18/06/2026   | 18/06/2026      |<https://cloudjourney.awsstudygroup.com/> |
+| 6   | - Deploy các container ứng dụng lên AWS ECS Fargate, cấu hình qua Load Balancer để nhận traffic. | 19/06/2026   | 19/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 7   | - Tích hợp Amazon S3 để lưu trữ hình ảnh sân cầu lông, avatar người dùng. Kiểm tra toàn bộ luồng hoạt động end-to-end.                                                                                         | 20/06/2026   | 20/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Kết quả đạt được tuần 9:
 

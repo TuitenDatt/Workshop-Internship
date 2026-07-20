@@ -1,6 +1,6 @@
 ---
 title: "Week 8 Worklog"
-date: 2026-07-06
+date: 2026-06-08
 weight: 1
 chapter: false
 pre: " <b> 1.8. </b> "
@@ -15,12 +15,12 @@ pre: " <b> 1.8. </b> "
 ### Tasks to be implemented this week:
 | Day | Task                                                                                                                                                                                   | Start date | Completion date | Reference                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Learn Amazon CloudWatch (Metrics, Logs, Alarms) and AWS CloudTrail (Audit logs).                                                                                      | 15/06/2026   | 15/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 3   | - Practice: Create a CloudWatch Dashboard to monitor EC2/ECS CPU and configure an Alarm to send email through SNS when overloaded.                                            | 16/06/2026   | 16/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Learn basic CI/CD strategies (AWS CodePipeline, CodeBuild). | 17/06/2026   | 17/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Design the overall architecture for the main project: "Web Cau Long Vui" integrated with AWS.                  | 18/06/2026   | 18/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - Prepare local resources and set up the source code base (Frontend + Backend) for Web Cau Long Vui.                                                                                           | 19/06/2026   | 19/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 7   | - Review all advanced knowledge and finalize the AWS architecture diagram for the following week.                                                                                         | 20/05/2026   | 20/05/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 2   | - Learn Amazon CloudWatch (Metrics, Logs, Alarms) and AWS CloudTrail (Audit logs).                                                                                      | 08/06/2026   | 08/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 3   | - Practice: Create a CloudWatch Dashboard to monitor EC2/ECS CPU and configure an Alarm to send email through SNS when overloaded.                                            | 09/06/2026   | 09/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 4   | - Learn basic CI/CD strategies (AWS CodePipeline, CodeBuild). | 10/06/2026   | 10/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 5   | - Design the overall architecture for the main project: "Web Cau Long Vui" integrated with AWS.                  | 11/06/2026   | 11/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 6   | - Prepare local resources and set up the source code base (Frontend + Backend) for Web Cau Long Vui.                                                                                           | 12/06/2026   | 12/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 7   | - Review all advanced knowledge and finalize the AWS architecture diagram for the following week.                                                                                         | 13/06/2026   | 13/06/2026      | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Week 8 Achievements:
 

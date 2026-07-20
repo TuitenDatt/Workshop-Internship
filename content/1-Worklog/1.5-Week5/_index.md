@@ -1,6 +1,6 @@
 ---
 title: "Week 5 Worklog"
-date: 2026-07-06
+date: 2026-05-18
 weight: 1
 chapter: false
 pre: " <b> 1.5. </b> "
@@ -15,12 +15,12 @@ pre: " <b> 1.5. </b> "
 ### Tasks to be implemented this week:
 | Day | Task                                                                                                                                                                                   | Start date | Completion date | Reference                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Learn Serverless architecture with AWS Lambda: Triggers, execution environment, and limits.                                                                                             | 24/05/2026   | 24/05/2026      | <https://aws.amazon.com/lambda/> |
-| 3   | - Learn the API Gateway management service: REST API, HTTP API, and routing integration.                                         | 25/05/2026   | 25/05/2026      | <https://aws.amazon.com/api-gateway/> |
-| 4   | - Study the AWS DynamoDB NoSQL database: Tables, Primary Keys, Partition Key, and Sort Key. | 26/05/2026   | 26/05/2026      | <https://aws.amazon.com/dynamodb/> |
-| 5   | - Practice writing a simple Lambda function with Node.js / Python to perform basic CRUD operations.  | 27/05/2026   | 27/05/2026      | <https://aws.amazon.com/lambda/>  |
-| 6   | - Configure API Gateway as a proxy to forward requests from the client directly to processing in the Lambda function.                                                                                    | 28/05/2026   | 28/05/2026      | <https://aws.amazon.com/api-gateway/> |
-| 7   | - Build a complete serverless REST API Backend system connected to DynamoDB to store log information.                                                                                   | 29/05/2026   | 29/05/2026      | <https://aws.amazon.com/dynamodb/> |
+| 2   | - Learn Serverless architecture with AWS Lambda: Triggers, execution environment, and limits.                                                                                             | 18/05/2026   | 18/05/2026      | <https://aws.amazon.com/lambda/> |
+| 3   | - Learn the API Gateway management service: REST API, HTTP API, and routing integration.                                         | 19/05/2026   | 19/05/2026      | <https://aws.amazon.com/api-gateway/> |
+| 4   | - Study the AWS DynamoDB NoSQL database: Tables, Primary Keys, Partition Key, and Sort Key. | 20/05/2026   | 20/05/2026      | <https://aws.amazon.com/dynamodb/> |
+| 5   | - Practice writing a simple Lambda function with Node.js / Python to perform basic CRUD operations.  | 21/05/2026   | 21/05/2026      | <https://aws.amazon.com/lambda/>  |
+| 6   | - Configure API Gateway as a proxy to forward requests from the client directly to processing in the Lambda function.                                                                                    | 22/05/2026   | 22/05/2026      | <https://aws.amazon.com/api-gateway/> |
+| 7   | - Build a complete serverless REST API Backend system connected to DynamoDB to store log information.                                                                                   | 23/05/2026   | 23/05/2026      | <https://aws.amazon.com/dynamodb/> |
 
 ### Week 5 Achievements:
 

@@ -6,22 +6,21 @@ chapter: false
 pre: " <b> 1.11. </b> "
 ---
 
-
-
 ### Mục tiêu tuần 11:
 
-* Tăng tốc hiệu năng ứng dụng thông qua mạng phân phối nội dung (CDN) và hoàn thiện các chương đầu tiên của tài liệu báo cáo.
+* Tối ưu chi phí, hoàn thiện tài liệu và đóng gói dự án.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Tích hợp Amazon CloudFront (CDN) phía trước S3/ALB để tăng tốc độ tải trang cho Web Cầu Lông Vui.                                                                                             | 06/07/2026   | 06/07/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 3   | - [Bắt đầu viết báo cáo] Xây dựng chương 1 & 2: Giới thiệu đề tài Web Cầu Lông Vui, mục tiêu và lý do chọn kiến trúc AWS                                            | 07/07/2026   | 07/07/2026      | 
-| 4   | - [Viết báo cáo] Chương 3: Chi tiết kiến trúc hệ thống trên AWS (Vẽ sơ đồ VPC, ECS, S3, RDS, CloudFront) và giải trình việc chọn dịch vụ. | 08/08/2026   | 08/07/2026      | 
-| 5   | - [Viết báo cáo] Chương 4: Kết quả đạt được, log nghiệm thu chạy thử, biểu đồ giám sát CloudWatch và đánh giá chi phí (Cost Optimization).                  | 09/07/2026   | 09/07/2026      | 
-| 6   | - Tổng kết toàn bộ dự án, rà soát lại file báo cáo (định dạng, tài liệu tham khảo), dọn dẹp các tài nguyên AWS không cần thiết để tránh phát sinh chi phí vượt ngân sách. Kết thúc 10 tuần.                                  | 10/07/2026   | 10/07/2026      | 
 
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --- | --- | --- | --- |
+| 2 | Áp dụng AWS Cost Optimization Best Practices: rà soát lại kiến trúc, xóa bỏ các tài nguyên dư thừa như EBS không sử dụng, Elastic IP và NAT Gateway không dùng. | 06/07/2026 | 06/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 3 | Thiết lập kế hoạch dự phòng và khôi phục sau sự cố cơ bản cho cơ sở dữ liệu RDS bằng Snapshot và Multi-AZ. | 07/07/2026 | 07/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 4 | Cập nhật, bổ sung kết quả kiểm thử tải, biểu đồ tối ưu chi phí và các nội dung nâng cao bảo mật vào báo cáo tổng kết dự án. | 08/07/2026 | 08/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 5 | Rà soát, căn chỉnh định dạng toàn bộ tài liệu báo cáo và kiểm tra danh mục tài liệu tham khảo theo đúng tiêu chuẩn quy định. | 09/07/2026 | 09/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 6 | Thực hiện quy trình dọn dẹp để tránh phát sinh chi phí ngoài ý muốn. | 10/07/2026 | 10/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 7 | Tổng kết chặng đường 11 tuần, chuẩn bị file báo cáo | 11/07/2026 | 11/07/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Kết quả đạt được tuần 11:
 
-* Tích hợp thành công Amazon CloudFront giúp giảm thời gian tải trang của Web Cầu Lông Vui; viết hoàn chỉnh Chương 1 (Giới thiệu), Chương 2 (Mục tiêu) và Chương 3 (Kiến trúc hệ thống chi tiết trên AWS) của báo cáo đồ án.
+* Hoàn tất rà soát và tối ưu chi phí AWS bằng cách loại bỏ các tài nguyên dư thừa; thiết lập phương án dự phòng cơ bản cho Amazon RDS; cập nhật, chuẩn hóa báo cáo tổng kết; hoàn thiện hồ sơ nghiệm thu.

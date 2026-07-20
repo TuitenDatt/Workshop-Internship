@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 4"
-date: 2026-07-06
+date: 2026-05-11
 weight: 1
 chapter: false
 pre: " <b> 1.4. </b> "
@@ -15,12 +15,12 @@ pre: " <b> 1.4. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Tìm hiểu về AWS Identity and Access Management (IAM): Users, Groups, Roles và Policies.                                       | 18/05/2026   | 18/05/2026        | <https://aws.amazon.com/iam/> |
-| 3   | - Nghiên cứu cú pháp viết IAM Policy bằng JSON (Effect, Action, Resource, Condition).                                                                          | 19/05/2025   | 19/05/2025      | <https://aws.amazon.com/iam/> |
-| 4   | - Thực hành thiết lập Multi-Factor Authentication (MFA) cho tài khoản Root và các tài khoản quản trị viên.                                                   | 20/05/2025   | 20/05/2025      | <https://aws.amazon.com/iam/> |
-| 5   | - Áp dụng nguyên tắc đặc quyền tối thiểu (Least Privilege): Tạo các nhóm quyền hạn giới hạn cho phòng ban Tester, Developer.                  | 21/05/2025   | 21/05/2025      | <https://aws.amazon.com/iam/> |
-| 6   | - Cấu hình IAM Role cho EC2 instance để nó có quyền đọc ghi dữ liệu an toàn vào S3 bucket mà không cần hardcode credentials.                                                                                    | 22/05/2025   | 22/05/2025      | <https://aws.amazon.com/iam/> |
-| 7   | - Kiểm tra và đánh giá an toàn bảo mật hệ thống bằng công cụ AWS IAM Access Advisor.                                                                                   | 23/05/2026   | 23/05/2026      | <https://aws.amazon.com/iam/> |
+| 2   | - Tìm hiểu về AWS Identity and Access Management (IAM): Users, Groups, Roles và Policies.                                       | 11/05/2026   | 11/05/2026        | <https://aws.amazon.com/iam/> |
+| 3   | - Nghiên cứu cú pháp viết IAM Policy bằng JSON (Effect, Action, Resource, Condition).                                                                          | 12/05/2026   | 12/05/2026      | <https://aws.amazon.com/iam/> |
+| 4   | - Thực hành thiết lập Multi-Factor Authentication (MFA) cho tài khoản Root và các tài khoản quản trị viên.                                                   | 13/05/2026   | 13/05/2026      | <https://aws.amazon.com/iam/> |
+| 5   | - Áp dụng nguyên tắc đặc quyền tối thiểu (Least Privilege): Tạo các nhóm quyền hạn giới hạn cho phòng ban Tester, Developer.                  | 14/05/2026   | 14/05/2026      | <https://aws.amazon.com/iam/> |
+| 6   | - Cấu hình IAM Role cho EC2 instance để nó có quyền đọc ghi dữ liệu an toàn vào S3 bucket mà không cần hardcode credentials.                                                                                    | 15/05/2026   | 15/05/2026      | <https://aws.amazon.com/iam/> |
+| 7   | - Kiểm tra và đánh giá an toàn bảo mật hệ thống bằng công cụ AWS IAM Access Advisor.                                                                                   | 16/05/2026   | 16/05/2026      | <https://aws.amazon.com/iam/> |
 
 ### Kết quả đạt được tuần 4:
 
